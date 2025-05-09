@@ -1,0 +1,20 @@
+﻿#youtube
+#|(^|\.)googlevideo\.com$
+#|(^|\.)youtube(ad|analytics)?\.com$
+#whatsapp
+#|^[a-z0-9.-]*whatsapp\.(com|jp|fr|net|br|uz|rs|ae|hk|si)$
+#twitter
+#|^[a-z0-9-]+\.twitter\.(com|jp|fr|net|br|uz|rs|ae|hk|si)$
+#|^[a-z0-9-]*\.?x\.(com|jp|fr|net|br|uz|rs|ae|hk|si)$
+#google ads
+|^[a-z0-9.-]*doubleclick\.net.*$
+#google analystics
+|^[a-z0-9-]*\.?google-analytics\.(com)$
+#ads services
+|^[a-z0-9-]*\.?adhouse\.(pro)$
+#braveads
+|^[a-z0-9-]*\.?ads.brave\.(com)$
+#clickfunnels ads
+|^[a-z0-9.-]*clickfunnels\.com$
+#casalemedia ads, analystics
+|^[a-z0-9.-]*casalemedia\.com$
